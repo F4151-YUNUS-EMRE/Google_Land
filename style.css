@@ -1,0 +1,116 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+.element1 ul li a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.68);
+}
+li{
+    display: inline-block;
+}
+.element1, .element2{
+    display: inline-block;
+}
+header{
+    position: relative;
+}
+.element2{
+    position: absolute;
+    right: 0;
+}
+.element2 ul li a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.797);
+}
+.element2 ul li{
+    padding: .5rem 1rem;
+    font-size: 1rem;
+}
+.element1 ul li{
+    padding: .5rem 1rem;
+    font-size: 1rem;
+}
+.button1{
+    background-color: rgba(0, 0, 255, 0.604);
+    color: white;
+    padding: .4rem .7rem;
+    border: none;
+}
+.section{
+    /* border: 2px solid red; */
+    margin-top: 18rem;
+}
+.img,.src,.material-symbols-outlined,.form,.form2{
+display: flex;
+justify-content: center;
+margin-top: .8rem;
+}
+.img{
+    /* border: 2px solid black; */
+}
+.form{
+  display: inline-block;
+ padding: 0rem .3rem ;
+}
+.last_button{
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+}
+.button2{
+    padding: .5rem 2rem;
+}
+#search{
+    /* border: 1px solid red; */
+    width: 30%;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
